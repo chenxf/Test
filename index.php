@@ -1,5 +1,7 @@
 <?php
 
+//Index.php, this is the main file of this application
+
 require_once 'functions.php';
 
 $a = myAdd(3, 2);
