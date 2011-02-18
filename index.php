@@ -1,10 +1,20 @@
 <?php
 
-function myAdd($a, $b){
-	return $a + $b;
-}
+require_once 'functions.php';
 
-$a = 4;
-$b = 3;
-echo myadd($a, $b);
+$a = myAdd(3, 2);
+echo $a;
+echo '<br />';
+
+$b = mySub(3, 2);
+echo $b;
+echo '<br />';
+
+$c = myMul(3, 2);
+echo $c;
+echo '<br />';
+
+$d = myDiv(3, 2);
+echo $d;
+echo '<br />';
 ?>
