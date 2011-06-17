@@ -110,22 +110,22 @@ $j(document).ready(function(){
             </div>
         </div>
     </noscript> 
-        <div id="masthead">
-<div class="area">
-	<p class="c-come">Welcome to Carinadresses!</p>
-    <div class="c-quicklink">
+        <div id="masthead"> 
+<div class="area"> 
+	<p class="c-come">Welcome to Carinadresses!</p> 
+    <div class="c-quicklink"> 
     <ul class="links">
             <li class="first" >		<a  rel="nofollow" href="http://www.carinadresses.com/customer/account/" title="My Account" >My Account		</a></li>
             <li >		<a  rel="nofollow" href="http://www.carinadresses.com/checkout/cart/" title="My Cart" class="top-link-cart">My Cart		</a></li>
             <li class=" last" >		<a  rel="nofollow" href="http://www.carinadresses.com/customer/account/login/" title="Log In" >Log In or Sign up		</a></li>
     		
 </ul>
-        </div>
-	<div class="clear"></div>
+        </div> 
+	<div class="clear"></div> 
 </div>	
-</div>
-<div id="c-header" class="area">
-	        <a rel="nofollow" href="http://www.carinadresses.com/" title="Carina Dresses"><img src="http://www.carinadresses.com/logo.gif" alt="Carina Dresses" class="logo"/></a>
+</div> 
+<div id="c-header" class="area"> 
+	        <a rel="nofollow" href="http://www.carinadresses.com/" title="Carina Dresses"><img src="http://www.carinadresses.com/logo.gif" alt="Carina Dresses" class="logo"/></a> 
                 
 		<form id="search_mini_form" action="http://www.carinadresses.com/catalogsearch/result/" method="get">
    
@@ -143,222 +143,223 @@ $j(document).ready(function(){
 		<a href="http://www.carinadresses.com/catalogsearch/advanced/" class="advance" rel="nofollow">Advanced Search</a>
    
 </form>
-        <div id="liveload">
+        <div id="liveload"> 
             	
-		</div>
-        <div class="blank5"></div>
+		</div> 
+        <div class="blank5"></div> 
        
-</div>
-
-
-<!-- nav begain-->
-
-<div class="area" id="main_nav">
-	<dl style="width:55px;">
-    	<dt><a title="Carina Dresses" href='http://www.carinadresses.com/'>Home</a></dt>
-    </dl>
-	<dl style="width:144px;">
-    	<dt><a title="Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses.html">Wedding Dresses</a></dt>
-        <dd style="width:780px;">
-            <ul style="width:780px;" class="nav-submenu">
-              <li>
-                <h4>OCCASION</h4>
+</div> 
+ 
+ 
+<!-- nav begain--> 
+ 
+<div class="area" id="main_nav"> 
+	<dl style="width:55px;"> 
+    	<dt><a title="Carina Dresses" href='http://www.carinadresses.com/'>Home</a></dt> 
+    </dl> 
+	<dl style="width:144px;"> 
+    	<dt><a title="Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses.html">Wedding Dresses</a></dt> 
+        <dd style="width:780px;"> 
+            <ul style="width:780px;" class="nav-submenu"> 
+              <li> 
+                <h4>OCCASION</h4> 
                 <a title="Beach Wedding Dresses" href="http://www.carinadresses.com/beach-wedding-dresses.html">Beach Wedding Dresses</a> 
                 <a title="Reception Wedding Dresses" href="http://www.carinadresses.com/reception-wedding-dresses.html">Reception Wedding Dresses</a> 
                 <a title="Garden Wedding Dresses" href="http://www.carinadresses.com/garden-wedding-dresses.html">Garden Wedding Dresses</a> 
                 <a title="Church Wedding Dresses" href="http://www.carinadresses.com/church-wedding-dresses.html">Church Wedding Dresses</a> 
                 <a title="Informal Wedding Dresses" href="http://www.carinadresses.com/informal-wedding-dresses.html">Informal Wedding Dresses</a> 
-               </li>
-              <li>
-                <h4>STYLE</h4>
+               </li> 
+              <li> 
+                <h4>STYLE</h4> 
                 <a title="Simple Wedding Dresses" href="http://www.carinadresses.com/simple-wedding-dresses.html">Simple</a> 
                 <a title="Classic Wedding Dresses" href="http://www.carinadresses.com/classic-wedding-dresses.html">Classic/Timeless</a> 
                 <a title="Chic/Modern Wedding Dresses" href="http://www.carinadresses.com/chic-modern-wedding-dresses.html">Chic/Modern</a> 
                 <a title="Elegant/Luxurious Wedding Dresses" href="http://www.carinadresses.com/elegant-luxurious-wedding-dresses.html">Elegant/Luxurious</a> 
                 <a title="Sexy Wedding Dresses" href="http://www.carinadresses.com/sexy-wedding-dresses.html">Sexy</a> 
-              </li>
-              <li>
-                <h4>SILHOUETTE</h4>
+              </li> 
+              <li> 
+                <h4>SILHOUETTE</h4> 
                 <a title="A-line Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/a-line.html">A-line</a> 
                 <a title="Ball Gown Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/ball-gown.html">Ball Gown</a> 
                 <a title="Column/Sheath Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/column-sheath.html">Column/Sheath</a> 
                 <a title="Empire Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/empire.html">Empire</a> 
-                <a title="Mermaid/Trumpet Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/mermaid-trumpet.html">Mermaid/Trumpet</a>
-                </li>
-              <li>
-                <h4>HEMLINE/TRAIN</h4>
+                <a title="Mermaid/Trumpet Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/mermaid-trumpet.html">Mermaid/Trumpet</a> 
+                </li> 
+              <li> 
+                <h4>HEMLINE/TRAIN</h4> 
                 <a title="Mini Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/mini.html">Mini</a> 
                 <a title="Floor Length Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/floor-length.html">Floor Length</a> 
                 <a title="Sweep Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/sweep.html">Sweep</a> 
                 <a title="Chapel Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/chapel.html">Chapel</a> 
-                <a title="Catedral Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/catedral.html">Catedral</a>
-              </li>
-              <li>
-                <h4>SIZE</h4>
+                <a title="Catedral Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/catedral.html">Catedral</a> 
+              </li> 
+              <li> 
+                <h4>SIZE</h4> 
                 <a title="Petite Wedding Dresses" href="http://www.carinadresses.com/petite-wedding-dresses.html">Petite</a> 
                 <a title="Plus Size Wedding Dresses" href="http://www.carinadresses.com/plus-size-wedding-dresses.html">Plus Size</a> 
                 <a title="Maternity Wedding Dresses" href="http://www.carinadresses.com/maternity-wedding-dresses.html">Maternity</a> 
                 <a title="Short Wedding Dresses" href="http://www.carinadresses.com/short-wedding-dresses.html">Short</a> 
-               </li>
-              <li>
-                <h4>SHOW COLOR</h4>
+               </li> 
+              <li> 
+                <h4>SHOW COLOR</h4> 
               	<a title="Champagne Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/champagne.html">Champagne</a> 
                 <a title="Ivory Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/ivory.html">Ivory</a> 
                 <a title="Pink Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/pink.html">Pink</a> 
                 <a title="White Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/white.html">White</a> 
                 <a title="Wedding Dresses in Color" href="http://www.carinadresses.com/wedding-dresses-in-color.html">Dresses in Color</a> 
-                </li>
-               <li>
-                  <h4>FABRIC</h4>
-                 <a title="Satin Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/satin.html">Satin</a> <a title="Taffeta Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/taffeta.html">Taffeta</a> <a title="Chiffon Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/chiffon.html">Chiffon</a> <a title="Organza Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/organza.html">Organza</a> </li>
-                <li>
-                  <h4>NECKLINE</h4>
-                 <a title="Sweetheart Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/sweetheart.html">Sweetheart</a> <a title="Strapless Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/strapless.html">Strapless</a> <a title="V-neck Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/v-neck.html">V-neck</a> <a title="Halter Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/halter.html">Halter</a> <a title="One-Shoulder Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/one-shoulder.html">One-Shoulder</a> </li>
-                <li>
-                  <h4>SLEEVE</h4>
-                 <a title="Sleeveless Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/sleeveless.html">Sleeveless</a> <a title="Cap Sleeve Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/cap-sleeve.html">Cap Sleeve</a> <a title="Short Sleeve Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/short-sleeve.html">Short Sleeve</a> </li>
-                <li>
-                  <h4>SEASON</h4>
-                 <a title="Spring Wedding Dresses" href="http://www.carinadresses.com/spring-wedding-dresses.html">Spring</a> <a title="Summer Wedding Dresses" href="http://www.carinadresses.com/summer-wedding-dresses.html">Summer</a> <a title="Autumn Wedding Dresses" href="http://www.carinadresses.com/autumn-wedding-dresses.html">Autumn</a> <a title="Winter Wedding Dresses" href="http://www.carinadresses.com/winter-wedding-dresses.html">Winter</a> </li>
-                <li>
-                  <h4>POPULAR COLLECTION</h4>
-                 <a title="Wedding Dresses for Europe" href="http://www.carinadresses.com/wedding-dresses-for-europe.html">Wedding Dresses for Europe</a> <a title="Celebrity Wedding Dresses" href="http://www.carinadresses.com/celebrity-wedding-dresses.html">Celebrity Wedding Dresses</a> </li>
-                <li>
-                  <h4>Special Offer</h4>
+                </li> 
+               <li> 
+                  <h4>FABRIC</h4> 
+                 <a title="Satin Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/satin.html">Satin</a> <a title="Taffeta Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/taffeta.html">Taffeta</a> <a title="Chiffon Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/chiffon.html">Chiffon</a> <a title="Organza Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/organza.html">Organza</a> </li> 
+                <li> 
+                  <h4>NECKLINE</h4> 
+                 <a title="Sweetheart Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/sweetheart.html">Sweetheart</a> <a title="Strapless Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/strapless.html">Strapless</a> <a title="V-neck Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/v-neck.html">V-neck</a> <a title="Halter Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/halter.html">Halter</a> <a title="One-Shoulder Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/one-shoulder.html">One-Shoulder</a> </li> 
+                <li> 
+                  <h4>SLEEVE</h4> 
+                 <a title="Sleeveless Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/sleeveless.html">Sleeveless</a> <a title="Cap Sleeve Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/cap-sleeve.html">Cap Sleeve</a> <a title="Short Sleeve Wedding Dresses" href="http://www.carinadresses.com/wedding-dresses/short-sleeve.html">Short Sleeve</a> </li> 
+                <li> 
+                  <h4>SEASON</h4> 
+                 <a title="Spring Wedding Dresses" href="http://www.carinadresses.com/spring-wedding-dresses.html">Spring</a> <a title="Summer Wedding Dresses" href="http://www.carinadresses.com/summer-wedding-dresses.html">Summer</a> <a title="Autumn Wedding Dresses" href="http://www.carinadresses.com/autumn-wedding-dresses.html">Autumn</a> <a title="Winter Wedding Dresses" href="http://www.carinadresses.com/winter-wedding-dresses.html">Winter</a> </li> 
+                <li> 
+                  <h4>POPULAR COLLECTION</h4> 
+                 <a title="Wedding Dresses for Europe" href="http://www.carinadresses.com/wedding-dresses-for-europe.html">Wedding Dresses for Europe</a> <a title="Celebrity Wedding Dresses" href="http://www.carinadresses.com/celebrity-wedding-dresses.html">Celebrity Wedding Dresses</a> </li> 
+                <li> 
+                  <h4>Special Offer</h4> 
                  <a title="Hot Sale Wedding Dresses" href="http://www.carinadresses.com/hot-sale-wedding-dresses.html">Hot Sale</a> <a title="Top Selling Wedding Dresses" href="http://www.carinadresses.com/top-selling-wedding-dresses.html">Top Selling Wedding Dresses</a> <a title="New Arrivals Wedding Dresses" href="http://www.carinadresses.com/new-arrival-wedding-dresses.html">New Arrivals</a> <a title="Wedding Dresses 2011" href="http://www.carinadresses.com/wedding-dresses-2011.html">Wedding Dresses 2011</a> <a title="Discount Wedding Dresses" href="http://www.carinadresses.com/discount-wedding-dresses.html">Discount Wedding Dresses</a> 
-               </li>
-            </ul>
+               </li> 
+            </ul> 
             
-        </dd>
-    </dl>
-    <dl style="width:174px;">
-    	<dt><a href="http://www.carinadresses.com/wedding-party-dresses.html" title="Wedding Party Dresses">Wedding Party Dresses</a></dt>
-        <dd style="width:582px;">
-          <ul style="width:582px;" class="nav-submenu">
-            <li>
-              <h4><a title="Bridesmaid Dresses" href="http://www.carinadresses.com/bridesmaid-dresses.html">Bridesmaid Dresses</a></h4>
-              <a title="Top Selling Bridesmaid Dresses" href="http://www.carinadresses.com/top-selling-bridesmaid-dresses.html">Top Selling Bridesmaid</a>
-              <a title="Junior Bridesmaid Dresses" href="http://www.carinadresses.com/junior-bridesmaid-dresses.html">Junior Bridesmaid Dresses</a>
-              <a title="Short Bridesmaid Dresses" href="http://www.carinadresses.com/short-bridesmaid-dresses.html">Short Bridesmaid Dresses</a>
-              <a title="Long Bridesmaid Dresses" href="http://www.carinadresses.com/long-bridesmaid-dresses.html">Long Bridesmaid Dresses</a>
-              <a title="Cheap Bridesmaid Dresses" href="http://www.carinadresses.com/cheap-bridesmaid-dresses.html">Cheap Bridesmaid Dresses</a>
-            </li>
-           <li>
-              <h4><a title="Flower Girl Dresses" href="http://www.carinadresses.com/flower-girl-dresses.html">Flower Girl Dresses</a></h4>
-              <a title="Hot Sale Flower Girl Dresses" href="http://www.carinadresses.com/hot-sale-flower-girl-dresses.html">Hot Sale</a> <a title="First Communion Dresses" href="http://www.carinadresses.com/first-communion-dresses.html">First Communion Dresses</a> <a title="Holiday Girls Dresses" href="http://www.carinadresses.com/holiday-girls-dresses.html">Holiday Girls Dresses</a> <a title="Party Girls Dresses" href="http://www.carinadresses.com/party-girls-dresses.html">Party Girls Dresses</a> <a title="Girls Princess Dresses" href="http://www.carinadresses.com/girls-princess-dresses.html">Girls Princess Dresses</a>
-            </li>
-            <li>
-              <h4><a title="Mother of the Bride Dresses" href="http://www.carinadresses.com/mother-of-the-bride-dresses.html">Mother of the Bride Dresses</a></h4>
-              <a title="New Arrival Mother of the Bride Dresses" href="http://www.carinadresses.com/mother-of-the-bridal-dresses-new-arrival.html">New Arrival</a> <a title="Hot Sale Mother of the Bride Dresses" href="http://www.carinadresses.com/hot-sale-mother-of-the-bride-dresses.html">Hot Sale</a> <a title="Mother of the Bride Dresses with Jacket" href="http://www.carinadresses.com/mother-of-the-bridal-dresses-with-jacket.html">Dresses with Jacket</a>
-            </li>
-          </ul>
-        </dd>
-
-    </dl>
-    <dl style="width:116px;">
-    	<dt><a title="Formal Dresses" href="http://www.carinadresses.com/formal-dresses.html">Formal Dresses</a></dt>
-        <dd style="width:582px; left:-102px;">
-            <ul style="width:582px;" class="nav-submenu">
-              <li class="lih100">
-                  <h4><a title="Cocktail Dresses" href="http://www.carinadresses.com/cocktail-dresses.html">Cocktail Dresses</a> </h4>
-                  <a title="New Arrival Cocktail Dresses" href="http://www.carinadresses.com/new-arrival-cocktail-dresses.html">New Arrival</a>
-                  <a target="_blank" title="Sexy Cocktail Dresses" href="http://www.carinadresses.com/sexy-cocktail-dresses.html">Sexy Cocktail Dresses</a>
-                  <a title="Cocktail Dresses Under $100" href="http://www.carinadresses.com/cocktail-dresses-under-100.html">Cocktail Dresses Under $100</a>
-                </li>
-                <li class="lih100">
-                  <h4><a title="Evening Dresses" href="http://www.carinadresses.com/special-occasion-dresses.html">Special Occasion Dresses</a></h4>
-                  <a title="Quinceanera Dresses" href="http://www.carinadresses.com/quinceanera-dresses.html">Quinceanera Dresses</a>
-                  <a title="Holiday Dresses" href="http://www.carinadresses.com/holiday-dresses.html">Holiday Dresses</a>
-                  <a title="Little Black Dresses" href="http://www.carinadresses.com/little-black-dresses.html">Little Black Dresses</a>
-                  <a title="Ball Gowns" href="http://www.carinadresses.com/ball-gown.html">Ball Gowns</a>
-                </li>
-                <li class="lih100">
-                  <h4><a title="Party Dresses" href="http://www.carinadresses.com/party-dresses.html">Party Dresses</a></h4>
-                  <a title="Graduation Party" href="http://www.carinadresses.com/graduation-party.html">Graduation Party</a>
-                  <a title="Dance Party" href="http://www.carinadresses.com/dance-party.html">Dance Party</a>
-                  <a title="Birthday Party" href="http://www.carinadresses.com/birthday-party.html">Birthday Party</a>
-                 </li>
-                <li>
-                  <h4><a title="Evening Dresses" href="http://www.carinadresses.com/evening-dresses.html">Evening Dresses</a></h4>
-                  <a title="Evening Dresses 2011" href="http://www.carinadresses.com/evening-dresses-2011.html">Evening Dresses 2011</a>
-                  <a title="Sexy Evening Dresses" href="http://www.carinadresses.com/sexy-evening-dresses.html">Sexy Evening Dresses</a>
-                  <a title="Elegant Evening Dresses" href="http://www.carinadresses.com/elegant-evening-dresses.html">Elegant Evening Dresses</a>
-                  <a title="Long Evening Dresses" href="http://www.carinadresses.com/long-evening-dresses.html">Long Evening Dresses</a>
-                  <a title="Plus Size Evening Dresses" href="http://www.carinadresses.com/plus-size-evening-dresses.html">Plus Size Evening Dresses</a>
-                </li>
-                <li>
-                  <h4><a title="Prom Dresses" href="http://www.carinadresses.com/prom-dresses.html">Prom Dresses</a></h4>
-                  <a title="Modest/Elegant Prom Dresses" href="http://www.carinadresses.com/modest-elegant-prom-dresses.html">Modest/Elegant Prom</a>
-                  <a title="Short Prom Dresses" href="http://www.carinadresses.com/short-prom-dresses.html">Short Prom Dresses</a>
-                </li>
-                <li>
-                  <h4><a title="Celebrity Dresses" href="http://www.carinadresses.com/celebrity-dresses.html">Celebrity Dresses</a></h4>
-                  <a title="Oscar Dresses" href="http://www.carinadresses.com/oscar-dresses.html">Oscar</a>
-                  <a title="Golden Globe Dresses" href="http://www.carinadresses.com/golden-globe-dresses.html">Golden Globe</a>
-                  <a title="Cannes Film Festival Dresses" href="http://www.carinadresses.com/cannes-film-festival.html">Cannes Film Festival</a>
-                  <a title="Venice Film Festival Dresses" href="http://www.carinadresses.com/venice-film-festival.html">Venice Film Festival</a>
-                  <a title="Emmy Dresses" href="http://www.carinadresses.com/emmy-dresses.html">Emmy</a>
-                  <a title="Grammy Dresses" href="http://www.carinadresses.com/grammy-dresses.html">Grammy</a>
-                </li>
-                <li class="lih65">
-                  <h4><a title="Homecoming Dresses" href="http://www.carinadresses.com/homecoming-dresses.html">Homecoming Dresses</a></h4>
-                  <a title="Top Selling Homecoming Dresses" href="http://www.carinadresses.com/top-selling-homecoming-dresses.html">Top Selling Homecoming</a>
+        </dd> 
+    </dl> 
+    <dl style="width:174px;"> 
+    	<dt><a href="http://www.carinadresses.com/wedding-party-dresses.html" title="Wedding Party Dresses">Wedding Party Dresses</a></dt> 
+        <dd style="width:582px;"> 
+          <ul style="width:582px;" class="nav-submenu"> 
+            <li> 
+              <h4><a title="Bridesmaid Dresses" href="http://www.carinadresses.com/bridesmaid-dresses.html">Bridesmaid Dresses</a></h4> 
+              <a title="Top Selling Bridesmaid Dresses" href="http://www.carinadresses.com/top-selling-bridesmaid-dresses.html">Top Selling Bridesmaid</a> 
+              <a title="Junior Bridesmaid Dresses" href="http://www.carinadresses.com/junior-bridesmaid-dresses.html">Junior Bridesmaid Dresses</a> 
+              <a title="Short Bridesmaid Dresses" href="http://www.carinadresses.com/short-bridesmaid-dresses.html">Short Bridesmaid Dresses</a> 
+              <a title="Long Bridesmaid Dresses" href="http://www.carinadresses.com/long-bridesmaid-dresses.html">Long Bridesmaid Dresses</a> 
+              <a title="Cheap Bridesmaid Dresses" href="http://www.carinadresses.com/cheap-bridesmaid-dresses.html">Cheap Bridesmaid Dresses</a> 
+            </li> 
+           <li> 
+              <h4><a title="Flower Girl Dresses" href="http://www.carinadresses.com/flower-girl-dresses.html">Flower Girl Dresses</a></h4> 
+              <a title="Hot Sale Flower Girl Dresses" href="http://www.carinadresses.com/hot-sale-flower-girl-dresses.html">Hot Sale</a> <a title="First Communion Dresses" href="http://www.carinadresses.com/first-communion-dresses.html">First Communion Dresses</a> <a title="Holiday Girls Dresses" href="http://www.carinadresses.com/holiday-girls-dresses.html">Holiday Girls Dresses</a> <a title="Party Girls Dresses" href="http://www.carinadresses.com/party-girls-dresses.html">Party Girls Dresses</a> <a title="Girls Princess Dresses" href="http://www.carinadresses.com/girls-princess-dresses.html">Girls Princess Dresses</a> 
+            </li> 
+            <li> 
+              <h4><a title="Mother of the Bride Dresses" href="http://www.carinadresses.com/mother-of-the-bride-dresses.html">Mother of the Bride Dresses</a></h4> 
+              <a title="New Arrival Mother of the Bride Dresses" href="http://www.carinadresses.com/mother-of-the-bridal-dresses-new-arrival.html">New Arrival</a> <a title="Hot Sale Mother of the Bride Dresses" href="http://www.carinadresses.com/hot-sale-mother-of-the-bride-dresses.html">Hot Sale</a> <a title="Mother of the Bride Dresses with Jacket" href="http://www.carinadresses.com/mother-of-the-bridal-dresses-with-jacket.html">Dresses with Jacket</a> 
+            </li> 
+          </ul> 
+        </dd> 
+ 
+    </dl> 
+    <dl style="width:116px;"> 
+    	<dt><a title="Formal Dresses" href="http://www.carinadresses.com/formal-dresses.html">Formal Dresses</a></dt> 
+        <dd style="width:582px; left:-102px;"> 
+            <ul style="width:582px;" class="nav-submenu"> 
+              <li class="lih100"> 
+                  <h4><a title="Cocktail Dresses" href="http://www.carinadresses.com/cocktail-dresses.html">Cocktail Dresses</a> </h4> 
+                  <a title="New Arrival Cocktail Dresses" href="http://www.carinadresses.com/new-arrival-cocktail-dresses.html">New Arrival</a> 
+                  <a target="_blank" title="Sexy Cocktail Dresses" href="http://www.carinadresses.com/sexy-cocktail-dresses.html">Sexy Cocktail Dresses</a> 
+                  <a title="Cocktail Dresses Under $100" href="http://www.carinadresses.com/cocktail-dresses-under-100.html">Cocktail Dresses Under $100</a> 
+                </li> 
+                <li class="lih100"> 
+                  <h4><a title="Evening Dresses" href="http://www.carinadresses.com/special-occasion-dresses.html">Special Occasion Dresses</a></h4> 
+                  <a title="Quinceanera Dresses" href="http://www.carinadresses.com/quinceanera-dresses.html">Quinceanera Dresses</a> 
+                  <a title="Holiday Dresses" href="http://www.carinadresses.com/holiday-dresses.html">Holiday Dresses</a> 
+                  <a title="Little Black Dresses" href="http://www.carinadresses.com/little-black-dresses.html">Little Black Dresses</a> 
+                  <a title="Ball Gowns" href="http://www.carinadresses.com/ball-gown.html">Ball Gowns</a> 
+                </li> 
+                <li class="lih100"> 
+                  <h4><a title="Party Dresses" href="http://www.carinadresses.com/party-dresses.html">Party Dresses</a></h4> 
+                  <a title="Graduation Party" href="http://www.carinadresses.com/graduation-party.html">Graduation Party</a> 
+                  <a title="Dance Party" href="http://www.carinadresses.com/dance-party.html">Dance Party</a> 
+                  <a title="Birthday Party" href="http://www.carinadresses.com/birthday-party.html">Birthday Party</a> 
+                 </li> 
+                <li> 
+                  <h4><a title="Evening Dresses" href="http://www.carinadresses.com/evening-dresses.html">Evening Dresses</a></h4> 
+                  <a title="Evening Dresses 2011" href="http://www.carinadresses.com/evening-dresses-2011.html">Evening Dresses 2011</a> 
+                  <a title="Sexy Evening Dresses" href="http://www.carinadresses.com/sexy-evening-dresses.html">Sexy Evening Dresses</a> 
+                  <a title="Elegant Evening Dresses" href="http://www.carinadresses.com/elegant-evening-dresses.html">Elegant Evening Dresses</a> 
+                  <a title="Long Evening Dresses" href="http://www.carinadresses.com/long-evening-dresses.html">Long Evening Dresses</a> 
+                  <a title="Plus Size Evening Dresses" href="http://www.carinadresses.com/plus-size-evening-dresses.html">Plus Size Evening Dresses</a> 
+                </li> 
+                <li> 
+                  <h4><a title="Prom Dresses" href="http://www.carinadresses.com/prom-dresses.html">Prom Dresses</a></h4> 
+                  <a title="Modest/Elegant Prom Dresses" href="http://www.carinadresses.com/modest-elegant-prom-dresses.html">Modest/Elegant Prom</a> 
+                  <a title="Short Prom Dresses" href="http://www.carinadresses.com/short-prom-dresses.html">Short Prom Dresses</a> 
+                </li> 
+                <li> 
+                  <h4><a title="Celebrity Dresses" href="http://www.carinadresses.com/celebrity-dresses.html">Celebrity Dresses</a></h4> 
+                  <a title="Oscar Dresses" href="http://www.carinadresses.com/oscar-dresses.html">Oscar</a> 
+                  <a title="Golden Globe Dresses" href="http://www.carinadresses.com/golden-globe-dresses.html">Golden Globe</a> 
+                  <a title="Cannes Film Festival Dresses" href="http://www.carinadresses.com/cannes-film-festival.html">Cannes Film Festival</a> 
+                  <a title="Venice Film Festival Dresses" href="http://www.carinadresses.com/venice-film-festival.html">Venice Film Festival</a> 
+                  <a title="Emmy Dresses" href="http://www.carinadresses.com/emmy-dresses.html">Emmy</a> 
+                  <a title="Grammy Dresses" href="http://www.carinadresses.com/grammy-dresses.html">Grammy</a> 
+                </li> 
+                <li class="lih65"> 
+                  <h4><a title="Homecoming Dresses" href="http://www.carinadresses.com/homecoming-dresses.html">Homecoming Dresses</a></h4> 
+                  <a title="Top Selling Homecoming Dresses" href="http://www.carinadresses.com/top-selling-homecoming-dresses.html">Top Selling Homecoming</a> 
                   <a title="Short Homecoming Dresses" href="http://www.carinadresses.com/short-homecoming-dresses.html">Short Homecoming Dresses</a></li> 
-            </ul>
-        </dd>
-    </dl>
-    <dl style="width:116px;">
-    	<dt><a title="Accessories" href="http://www.carinadresses.com/wedding-accessories.html">Accessories</a></dt>
-        <dd style="width:388px; left:-20px;">
-			<ul style="width:388px;" class="nav-submenu">
-				<li>
-					<h4><a title="Wedding Accessories" href="http://www.carinadresses.com/wedding-accessories.html">Wedding Accessories</a></h4>
-					<a title="Wedding Glove" href="http://www.carinadresses.com/gloves.html">Glove</a>
-					<a title="Wedding Veil" href="http://www.carinadresses.com/veil.html">Veil</a>
-					<a title="Bridal Bouquet" href="http://www.carinadresses.com/bride-holding-flower.html">Bridal Bouquet</a>
-					<a title="Wedding Ring Pillow" href="http://www.carinadresses.com/wedding-ring-pillow.html">Wedding Ring Pillow</a>
-				</li>
-				<li style="height:170px;">
-					<h4>Other Accessories</h4>
-					<a title="Wedding Jewelry" href="http://www.carinadresses.com/jewelry.html">Jewelry</a>
-					<a title="Wedding Petticoat" href="http://www.carinadresses.com/petticoat.html">Petticoat</a>
-					<a title="Wedding Tiara" href="http://www.carinadresses.com/tiara.html">Tiara</a>
-					<a title="Flower" href="http://www.carinadresses.com/flower.html">Flower</a>
-					<a title="Pocket Square" href="http://www.carinadresses.com/pocket-square.html">Pocket Square</a>
-					<a title="Tie" href="http://www.carinadresses.com/tie.html">Tie</a>
-					<a title="Shapewear" href="http://www.carinadresses.com/shapewear.html">shapewear</a>
-					<a title="Toupee" href="http://www.carinadresses.com/toupee.html">Toupee</a>
-				</li>
-			</ul>
-        </dd>
-    </dl>
-    <dl style="width:99px;">
-    	<dt><a title="Carina special offer" href="http://www.carinadresses.com/carina-special-offer.html">Special Offer</a></dt>
-        <dd style="width:170px;">
-           <ul class="nav-sub-cate">
-              	<li style="border:none;"><a title="Hot Sale Dresses" href="http://www.carinadresses.com/hot-sales.html">Hot Sale</a> </li>
-				<li><a title="New Arrival Dresses" href="http://www.carinadresses.com/new-arrival.html">New Arrival</a></li>
-            </ul>
-        </dd>
-    </dl>
-    <dl>
-    	<dt><a title="Carina News" href="http://www.carinadresses.com/weddingguide/">Carina News</a></dt>
-    </dl>
-</div>
-<!-- nav end-->
-
-
-<div id="Countdown" class="area">
-<a href="http://www.carinadresses.com/homecoming-dresses.html" title="Homecoming Dresses" class="homecoming"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/common/homecoming_dresses.jpg"  alt="Homecoming Dresses"/></a>
-<a href="http://www.carinadresses.com/cocktail-dresses.html" title="Cocktail Dresses" class="cocktail"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/common/cocktail_dresses.jpg"  alt="Cocktail Dresses"/></a>
-<span id="Counttime"></span>
-<span style="display:none">2011/06/13,03:37:07</span>
-</div>
-
-
-<SCRIPT LANGUAGE="JavaScript">
+            </ul> 
+        </dd> 
+    </dl> 
+    <dl style="width:116px;"> 
+    	<dt><a title="Accessories" href="http://www.carinadresses.com/wedding-accessories.html">Accessories</a></dt> 
+        <dd style="width:388px; left:-20px;"> 
+			<ul style="width:388px;" class="nav-submenu"> 
+				<li> 
+					<h4><a title="Wedding Accessories" href="http://www.carinadresses.com/wedding-accessories.html">Wedding Accessories</a></h4> 
+					<a title="Wedding Glove" href="http://www.carinadresses.com/gloves.html">Glove</a> 
+					<a title="Wedding Veil" href="http://www.carinadresses.com/veil.html">Veil</a> 
+					<a title="Bridal Bouquet" href="http://www.carinadresses.com/bride-holding-flower.html">Bridal Bouquet</a> 
+					<a title="Wedding Ring Pillow" href="http://www.carinadresses.com/wedding-ring-pillow.html">Wedding Ring Pillow</a> 
+				</li> 
+				<li style="height:170px;"> 
+					<h4>Other Accessories</h4> 
+					<a title="Wedding Jewelry" href="http://www.carinadresses.com/jewelry.html">Jewelry</a> 
+					<a title="Wedding Petticoat" href="http://www.carinadresses.com/petticoat.html">Petticoat</a> 
+					<a title="Wedding Tiara" href="http://www.carinadresses.com/tiara.html">Tiara</a> 
+					<a title="Flower" href="http://www.carinadresses.com/flower.html">Flower</a> 
+					<a title="Pocket Square" href="http://www.carinadresses.com/pocket-square.html">Pocket Square</a> 
+					<a title="Tie" href="http://www.carinadresses.com/tie.html">Tie</a> 
+					<a title="Shapewear" href="http://www.carinadresses.com/shapewear.html">shapewear</a> 
+					<a title="Toupee" href="http://www.carinadresses.com/toupee.html">Toupee</a> 
+				</li> 
+			</ul> 
+        </dd> 
+    </dl> 
+    <dl style="width:99px;"> 
+    	<dt><a title="Carina special offer" href="http://www.carinadresses.com/carina-special-offer.html">Special Offer</a></dt> 
+        <dd style="width:170px;"> 
+           <ul class="nav-sub-cate"> 
+              	<li style="border:none;"><a title="Hot Sale Dresses" href="http://www.carinadresses.com/hot-sales.html">Hot Sale</a> </li> 
+				<li><a title="New Arrival Dresses" href="http://www.carinadresses.com/new-arrival.html">New Arrival</a></li> 
+                <li><a title="In Stock Dresses" href="http://www.carinadresses.com/in-stock.html">In Stock</a></li> 
+            </ul> 
+        </dd> 
+    </dl> 
+    <dl> 
+    	<dt><a title="Carina News" href="http://www.carinadresses.com/weddingguide/">Carina News</a></dt> 
+    </dl> 
+</div> 
+<!-- nav end--> 
+ 
+ 
+<div id="Countdown" class="area"> 
+<a href="http://www.carinadresses.com/homecoming-dresses.html" title="Homecoming Dresses" class="homecoming"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/common/homecoming_dresses.jpg"  alt="Homecoming Dresses"/></a> 
+<a href="http://www.carinadresses.com/cocktail-dresses.html" title="Cocktail Dresses" class="cocktail"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/common/cocktail_dresses.jpg"  alt="Cocktail Dresses"/></a> 
+<span id="Counttime"></span> 
+<span style="display:none">2011/06/17,13:51:50</span> 
+</div> 
+ 
+ 
+<SCRIPT LANGUAGE="JavaScript"> 
 var endtime=new Date("2011/03/23,02:00:00");
-var servertime= new Date("2011/06/13,03:37:07");
+var servertime= new Date("2011/06/17,13:51:50");
 var clienttime = new Date();
 function _fresh()
 {
@@ -396,7 +397,7 @@ function _fresh()
 _fresh()
 var sh;
 sh=setInterval(_fresh,1000);
-</SCRIPT>
+</SCRIPT> 
 <div class="blank5"></div>        <div class="main-container col1-layout">
             <div class="main">
                 <div class="breadcrumbs">
@@ -417,56 +418,14 @@ sh=setInterval(_fresh,1000);
     </div>
 -->
 <div class="std"><div id="single">
-  <div class="subnav">
-    <div class="subtitle">Help Center</div>
-	<dl>
-    	<dt>About Carina</dt>
-        <dd>
-        <a href="http://www.carinadresses.com/about-us.html">About Us</a>
-        <a href="http://www.carinadresses.com/contact-us.html">Contact Us</a>
-        <a href="http://www.carinadresses.com/catalog/seo_sitemap/category/">Site Map</a>
-        </dd>
-        <dt>Customer Services</dt>
-        <dd>
-        <a href="http://www.carinadresses.com/size-chart.html">Size Chart</a>
-        <a href="http://www.carinadresses.com/color-chart.html" class="active">Color Chart</a>
-        <a href="http://www.carinadresses.com/quality-dresses.html">High Quality Dresses</a>
-        <a href="http://www.carinadresses.com/style-guide.html">Style Guide</a>
-        <a href="http://www.carinadresses.com/how-to-order.html">How to Order</a>
-        <a href="http://www.carinadresses.com/shipping-and-delivery.html">Shipping &amp; Delivery</a>
-        <a href="http://www.carinadresses.com/ship.html">Locations We Ship To</a>
-        <a href="http://www.carinadresses.com/payment.html">Payment</a>
-        <a href="http://www.carinadresses.com/faq.html">FAQs</a>
-        <a href="http://www.carinadresses.com/real-story.html">Real Story</a>
-		<a href="http://www.carinadresses.com/step-by-step.html">Step by Step</a>
-        </dd>
-        <dt>
-        	Choosing Guides
-        </dt>
-        <dd>
-        <a href="http://www.carinadresses.com/choosing-guides.html">Wedding Dress Silhouette</a>
-        <a href="http://www.carinadresses.com/wedding_dress_fabrics.html">Wedding Dress Fabrics</a>
-        <a href="http://www.carinadresses.com/wedding_dress_necklines.html">Wedding Dress Necklines</a>
-        <a href="http://www.carinadresses.com/wedding_dress_trains.html">Wedding Dress Trains</a>
-        <a href="http://www.carinadresses.com/body_shape_advice.html">Body Shape Advice</a>
-        </dd>
-        <dt>Company Policies</dt>
-        <dd>
-         <a href="http://www.carinadresses.com/returns-and-exchanges.html">Returns &amp; Exchanges</a>
-        <a href="http://www.carinadresses.com/privacy-and-Security.html">Privacy &amp; Security</a>
-        <a href="http://www.carinadresses.com/terms-of-use.html">Terms of Use </a>
-        <a href="http://www.carinadresses.com/infringement-policy.html">Intellectual Property Infringement Policy</a>
-        </dd>
-        
-    </dl>
-    </div>
-   <div id="maincon">
-   <div class="content" id="colorchart">
-   	<div class="title">Color Chart</div>
-    <div class="colornav">
-    	<a class="u black" href="#Satin">Satin</a> <a class="u black" href="#Chiffon">Chiffon</a> <a class="u black" href="#Taffeta">Taffeta</a> <a class="u black" href="#Organza">Organza</a> <a class="u black" href="#Matte">Matte Satin</a> <a class="u black" href="#Elastic">Elastic Woven Satin</a> <a class="u black" href="#Silk">Silk Like Satin</a>
-    </div>
-	<script type="text/javascript">// <![CDATA[
+<div class="subnav">
+<div class="subtitle">Help Center</div>
+<dl> <dt>About Carina</dt> <dd> <a href="http://www.carinadresses.com/about-us.html">About Us</a> <a href="http://www.carinadresses.com/contact-us.html">Contact Us</a> <a href="http://www.carinadresses.com/catalog/seo_sitemap/category/">Site Map</a> </dd> <dt>Customer Services</dt> <dd> <a href="http://www.carinadresses.com/size-chart.html">Size Chart</a> <a class="active" href="http://www.carinadresses.com/color-chart.html">Color Chart</a> <a href="http://www.carinadresses.com/quality-dresses.html">High Quality Dresses</a> <a href="http://www.carinadresses.com/style-guide.html">Style Guide</a> <a href="http://www.carinadresses.com/how-to-order.html">How to Order</a> <a href="http://www.carinadresses.com/shipping-and-delivery.html">Shipping &amp; Delivery</a> <a href="http://www.carinadresses.com/ship.html">Locations We Ship To</a> <a href="http://www.carinadresses.com/payment.html">Payment</a> <a href="http://www.carinadresses.com/faq.html">FAQs</a> <a href="http://www.carinadresses.com/real-story.html">Real Story</a> <a href="http://www.carinadresses.com/step-by-step.html">Step by Step</a> </dd> <dt> Choosing Guides </dt> <dd> <a href="http://www.carinadresses.com/choosing-guides.html">Wedding Dress Silhouette</a> <a href="http://www.carinadresses.com/wedding_dress_fabrics.html">Wedding Dress Fabrics</a> <a href="http://www.carinadresses.com/wedding_dress_necklines.html">Wedding Dress Necklines</a> <a href="http://www.carinadresses.com/wedding_dress_trains.html">Wedding Dress Trains</a> <a href="http://www.carinadresses.com/body_shape_advice.html">Body Shape Advice</a> </dd> <dt>Company Policies</dt> <dd> <a href="http://www.carinadresses.com/returns-and-exchanges.html">Returns &amp; Exchanges</a> <a href="http://www.carinadresses.com/privacy-and-Security.html">Privacy &amp; Security</a> <a href="http://www.carinadresses.com/terms-of-use.html">Terms of Use </a> <a href="http://www.carinadresses.com/infringement-policy.html">Intellectual Property Infringement Policy</a> </dd> </dl></div>
+<div id="maincon">
+<div id="colorchart" class="content">
+<div class="title">Color Chart</div>
+<div class="colornav"><a class="u black" href="#Satin">Satin</a> <a class="u black" href="#Chiffon">Chiffon</a> <a class="u black" href="#Taffeta">Taffeta</a> <a class="u black" href="#Organza">Organza</a> <a class="u black" href="#Matte">Matte Satin</a> <a class="u black" href="#Elastic">Elastic Woven Satin</a> <a class="u black" href="#Silk">Silk Like Satin</a></div>
+<script type="text/javascript">// <![CDATA[
 	 var $j = jQuery.noConflict();
 	 var hosts="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart";
 	 var newTab=0 ,isTba=false;
@@ -495,639 +454,599 @@ sh=setInterval(_fresh,1000);
 		
 	});
 // ]]></script>
-    <div class="section"><a id="satin" name="satin">Satin</a><a href="#" class="top">^Top</a></div>
-    <div class="colorbox">
-    	<div class="bigimg">
-        	<img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241087531.jpg" alt="Satin" />
-            <p>
-            	Viewing:<input type="text" class="samplename" disabled="disabled">
-            </p>
-        </div>
-        <ul class="mimg">
-        	<li><span imgs="/black1241087531" t="0" l="0"  title="Black"></span>
-              <p class="mimgtext">Black</p>
-            </li>
-            <li><span imgs="/Blue1241771916" t="0" l="1"  title="Blue"></span>
-              <p class="mimgtext">Blue</p>
-            </li>
-            <li><span imgs="/Brown1241771984" t="0" l="2"  title="Brown"></span>
-              <p class="mimgtext">Brown</p>
-            </li>
-            <li><span imgs="/Burgundy12417726141245393904" t="0" l="3" ></span>
-              <p class="mimgtext">Burgundy</p>
-            </li>
-            <li><span imgs="/Champagne1241772668" t="0" l="4" ></span>
-              <p class="mimgtext">Champagne</p>
-            </li>
-            <li><span imgs="/Chocolate12417726891245394095" t="0" l="5" ></span>
-              <p class="mimgtext">Chocolate</p>
-            </li>
-            <li><span imgs="/Dark Navy1241772750" t="0" l="6"  title="Dark Navy"></span>
-              <p class="mimgtext">Dark Navy</p>
-            </li>
-            <li><span imgs="/Daffodil1241772710" t="2" l="3"  title="Daffodil"></span>
-              <p class="mimgtext">Daffodil</p>
-            </li>
-            <li><span imgs="/Darkgreen1241772787" t="2" l="4"  title="Dark Green"></span>
-              <p class="mimgtext">Dark Green</p>
-            </li>
-            <li><span imgs="/Fuchsia1241091221" t="0" l="7"  title="Fuchsia"></span>
-              <p class="mimgtext">Fuchsia</p>
-            </li>
-            <li><span imgs="/gold12410912401245394183" t="0" l="8"  title="Gold"></span>
-              <p class="mimgtext">Gold</p>
-            </li>
-            <li><span imgs="/grape1241091254" t="1" l="0"  title="Grape"></span>
-              <p class="mimgtext">Grape</p>
-            </li>
-            <li><span imgs="/green1241091272" t="2" l="5"  title="Green"></span>
-              <p class="mimgtext">Green</p>
-            </li>
-            <li><span imgs="/Hunter1241772883" t="1" l="1" ></span>
-              <p class="mimgtext">Hunter</p>
-            </li>
-            <li><span imgs="/Ivory1241773016" t="1" l="2"  title="Ivory"></span>
-              <p class="mimgtext">Ivory</p>
-            </li>
-            <li><span imgs="/lavender1241091340" t="1" l="3"  title="Lavender"></span>
-              <p class="mimgtext">Lavender</p>
-            </li>
-            <li><span imgs="/lightskyblue12410913521245394273" t="1" l="4"  title="Light Sky Blue"></span>
-              <p class="mimgtext">Light Sky Blue</p>
-            </li>
-            <li><span imgs="/Lightslategray12417730361245394355" t="1" l="5"  title="Light Slate Gray"></span>
-              <p class="mimgtext">Light Slate Gray</p>
-            </li>
-            <li><span imgs="/Lilac12417730631245394426" t="1" l="6"  title="Lilac"></span>
-              <p class="mimgtext">Lilac</p>
-            </li>
-            <li><span imgs="/Orange1241773132" t="1" l="7"  title="Orange"></span>
-              <p class="mimgtext">Orange</p>
-            </li>
-            <li><span imgs="/pink1241091411" t="2" l="6"  title="Pink"></span>
-              <p class="mimgtext">Pink</p>
-            </li>
-            <li><span imgs="/Royal Blue1241773160" t="1" l="8"  title="Royal Blue"></span>
-              <p class="mimgtext">Royal Blue</p>
-            </li>
-            <li><span imgs="/Sage1241773205" t="2" l="0"  title="Sage"></span>
-              <p class="mimgtext">Sage</p>
-            </li>
-            <li><span imgs="/Silver1241773221" t="2" l="1"  title="Silver"></span>
-              <p class="mimgtext">Silver</p>
-            </li>
-            <li><span imgs="/White1241773238" t="2" l="2"  title="White"></span>
-              <p class="mimgtext">White</p>
-            </li>
-            <li><span imgs="/red1241091435" t="2" l="7"  title="Red"></span>
-              <p class="mimgtext">Red</p>
-            </li>
-        </ul>
-        <div class="clear"></div>
-    </div>
-    <div class="section"><a id="Chiffon" name="Chiffon">Chiffon</a><a href="#" class="top">^Top</a></div>
-    
-    <div class="colorbox">
-    	<div class="bigimg">
-        	<img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241780374.jpg" alt="Chiffon" />
-            <p>
-            	Viewing:<input type="text" class="samplename" disabled="disabled">
-            </p>
-        </div>
-        <ul class="mimg">
-        	<li><span imgs="/black1241780374" t="3" l="0" ></span>
-              <p class="mimgtext">Black </p>
-            </li>
-            <li><span imgs="/Blue1241780402" t="3" l="1" ></span>
-              <p class="mimgtext">Blue </p>
-            </li>
-            <li><span imgs="/brown12410973941245394537" t="3" l="2" ></span>
-              <p class="mimgtext">Brown </p>
-            </li>
-            <li><span imgs="/burgundy1241097439" t="3" l="3" ></span>
-              <p class="mimgtext">Burgundy </p>
-            </li>
-            <li><span imgs="/Champagne12417804231245394644" t="3" l="4" ></span>
-              <p class="mimgtext">Champagne </p>
-            </li>
-            <li><span imgs="/chocolate12410974631245394714" t="3" l="5" ></span>
-              <p class="mimgtext">Chocolate </p>
-            </li>
-            <li><span imgs="/dark navy1241097511" t="3" l="6" ></span>
-              <p class="mimgtext">Dark Navy </p>
-            </li>
-            <li><span imgs="/Daffodil1241780847" t="5" l="3" ></span>
-              <p class="mimgtext">Daffodil </p>
-            </li>
-            <li><span imgs="/Darkgreen1241780864" t="5" l="4" ></span>
-              <p class="mimgtext">Dark Green </p>
-            </li>
-            <li><span imgs="/Fuchsia1241780441" t="3" l="7" ></span>
-              <p class="mimgtext">Fuchsia </p>
-            </li>
-            <li><span imgs="/gold1241097578" t="3" l="8" ></span>
-              <p class="mimgtext">Gold </p>
-            </li>
-            <li><span imgs="/Grape12417804581245394788" t="4" l="0" ></span>
-              <p class="mimgtext">Grape </p>
-            </li>
-            <li><span imgs="/Green1241780886" t="5" l="5" ></span>
-              <p class="mimgtext">Green </p>
-            </li>
-            <li><span imgs="/Hunter1241780498" t="4" l="1" ></span>
-              <p class="mimgtext">Hunter </p>
-            </li>
-            <li><span imgs="/Ivory12417805151245395011" t="4" l="2" ></span>
-              <p class="mimgtext">Ivory </p>
-            </li>
-            <li><span imgs="/Lavender1241780532" t="4" l="3" ></span>
-              <p class="mimgtext">Lavender </p>
-            </li>
-            <li><span imgs="/Lightskyblue1241780550" t="4" l="4" ></span>
-              <p class="mimgtext">Light Sky Blue </p>
-            </li>
-            <li><span imgs="/Lightslategray12417805651245395110" t="4" l="5" ></span>
-              <p class="mimgtext">Light Slate Gray </p>
-            </li>
-            <li><span imgs="/Lilac1241780582" t="4" l="6" ></span>
-              <p class="mimgtext">Lilac </p>
-            </li>
-            <li><span imgs="/Orange12417805971245395197" t="4" l="7" ></span>
-              <p class="mimgtext">Orange </p>
-            </li>
-            <li><span imgs="/Pink12417809031245395281" t="5" l="6" ></span>
-              <p class="mimgtext">Pink </p>
-            </li>
-            <li><span imgs="/royal blue1241097871" t="4" l="8" ></span>
-              <p class="mimgtext">Royal Blue </p>
-            </li>
-            <li><span imgs="/Sage1241780656" t="5" l="0" ></span>
-              <p class="mimgtext">Sage </p>
-            </li>
-            <li><span imgs="/Red12417806421245395473" t="5" l="1" ></span>
-              <p class="mimgtext">Red </p>
-            </li>
-            <li><span imgs="/Silver12417809211245395543" t="5" l="7" ></span>
-              <p class="mimgtext">Silver </p>
-            </li>
-            <li><span imgs="/white1241780693" t="5" l="2" ></span>
-              <p class="mimgtext">White </p>
-            </li>
-
-        </ul>
-        <div class="clear"></div>
-    </div>
-    
-    <div class="section"><a id="Taffeta" name="Taffeta">Taffeta</a><a href="#" class="top">^Top</a></div>
-    <div class="colorbox">
-    	<div class="bigimg">
-        	<img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/brown12410982401245395687.jpg" alt="Taffeta" />
-            <p>
-            	Viewing:<input type="text" class="samplename" disabled="disabled">
-            </p>
-        </div>
-        <ul class="mimg">
-        	<li><span imgs="/brown12410982401245395687" t="6" l="0" ></span>
-              <p class="mimgtext">Brown</p>
-            </li>
-            <li><span imgs="/Burgundy12417781411245395768" t="6" l="1" ></span>
-              <p class="mimgtext">Burgundy</p>
-            </li>
-            <li><span imgs="/Black1241778825" t="8" l="0" ></span>
-              <p class="mimgtext">Black</p>
-            </li>
-            <li><span imgs="/Blue1241778861" t="8" l="1" ></span>
-              <p class="mimgtext">Blue</p>
-            </li>
-            <li><span imgs="/Champagne1241778172" t="6" l="2" ></span>
-              <p class="mimgtext">Champagne</p>
-            </li>
-            <li><span imgs="/chocolate1241098318" t="6" l="3" ></span>
-              <p class="mimgtext">Chocolate</p>
-            </li>
-            <li><span imgs="/Daffodil1241778892" t="8" l="2" ></span>
-              <p class="mimgtext">Daffodil</p>
-            </li>
-            <li><span imgs="/Darkgreen12417789191245395824" t="8" l="3" ></span>
-              <p class="mimgtext">Dark Green</p>
-            </li>
-            <li><span imgs="/Darknavy1241778952" t="8" l="4" ></span>
-              <p class="mimgtext">Dark Navy</p>
-            </li>
-            <li><span imgs="/Fuchsia1241098337" t="6" l="4" ></span>
-              <p class="mimgtext">Fuchsia</p>
-            </li>
-            <li><span imgs="/gold1241098357" t="6" l="5" ></span>
-              <p class="mimgtext">Gold</p>
-            </li>
-            <li><span imgs="/Grape12417782271245395890" t="6" l="6" ></span>
-              <p class="mimgtext">Grape</p>
-            </li>
-            <li><span imgs="/green12410984001245395943" t="6" l="7" ></span>
-              <p class="mimgtext">Green</p>
-            </li>
-            <li><span imgs="/hunter12410984171245396011" t="6" l="8" ></span>
-              <p class="mimgtext">Hunter</p>
-            </li>
-            <li><span imgs="/Ivory12417782501245396484" t="7" l="0" ></span>
-              <p class="mimgtext">Ivory</p>
-            </li>
-            <li><span imgs="/Lavender12417782631245396557" t="7" l="1" ></span>
-              <p class="mimgtext">Lavender</p>
-            </li>
-            <li><span imgs="/Lightskyblue12417790111245396631" t="8" l="5" ></span>
-              <p class="mimgtext">Light Sky Blue</p>
-            </li>
-            <li><span imgs="/Lightslategray12417790661245396718" t="8" l="6" ></span>
-              <p class="mimgtext">Light Slate Gray</p>
-            </li>
-            <li><span imgs="/lilac1241098470" t="7" l="2" ></span>
-              <p class="mimgtext">Lilac</p>
-            </li>
-            <li><span imgs="/Orange31242037266" t="7" l="3" ></span>
-              <p class="mimgtext">Orange</p>
-            </li>
-            <li><span imgs="/pink12410985201245396787" t="7" l="4" ></span>
-              <p class="mimgtext">Pink</p>
-            </li>
-            <li><span imgs="/red12410985371245396836" t="7" l="5" ></span>
-              <p class="mimgtext">Red</p>
-            </li>
-            <li><span imgs="/Royalblue1241779105" t="8" l="7" ></span>
-              <p class="mimgtext">Royal Blue</p>
-            </li>
-            <li><span imgs="/sage12410985551245396880" t="7" l="6" ></span>
-              <p class="mimgtext">Sage</p>
-            </li>
-            <li><span imgs="/Silver1241778388" t="7" l="7" ></span>
-              <p class="mimgtext">Silver</p>
-            </li>
-            <li><span imgs="/white12410985881245396941" t="7" l="8" ></span>
-              <p class="mimgtext">White</p>
-            </li>
-        </ul>
-        <div class="clear"></div>
-    </div>
-    
-    <div class="section"><a id="Organza" name="Organza">Organza</a><a href="#" class="top">^Top</a></div>
-    <div class="colorbox">
-    	<div class="bigimg">
-        	<img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/brown1245397076.jpg" alt="Organza" />
-            <p>
-            	Viewing:<input type="text" class="samplename" disabled="disabled">
-            </p>
-        </div>
-        <ul class="mimg">
-        	<li> <span imgs="/brown1245397076" t="9" l="0" ></span>
-              <p class="mimgtext">Brown</p>
-            </li>
-            <li> <span imgs="/Black1241781909" t="11" l="0" ></span>
-              <p class="mimgtext">Black</p>
-            </li>
-            <li> <span imgs="/Blue1241781935.jpg" t="11" l="1" ></span>
-              <p class="mimgtext">Blue</p>
-            </li>
-            <li> <span imgs="/Burgundy1241781963" t="11" l="2" ></span>
-              <p class="mimgtext">Burgundy</p>
-            </li>
-            <li> <span imgs="/Daffodil1245397200" t="9" l="1" ></span>
-              <p class="mimgtext">Daffodil</p>
-            </li>
-            <li> <span imgs="/darknavy1245397252" t="9" l="2" ></span>
-              <p class="mimgtext">Dark Navy</p>
-            </li>
-            <li> <span imgs="/Dark Green1241781990" t="11" l="3" ></span>
-              <p class="mimgtext">Dark Green</p>
-            </li>
-            <li> <span imgs="/Fuchsia1241782017" t="11" l="4" ></span>
-              <p class="mimgtext">Fuchsia</p>
-            </li>
-            <li> <span imgs="/gold1245397426" t="9" l="3" ></span>
-              <p class="mimgtext">Gold</p>
-            </li>
-            <li> <span imgs="/grape1245397467" t="9" l="4" ></span>
-              <p class="mimgtext">Grape</p>
-            </li>
-            <li> <span imgs="/green1245397524" t="9" l="5" ></span>
-              <p class="mimgtext">Green</p>
-            </li>
-            <li> <span imgs="/hunter1245397958" t="9" l="6" ></span>
-              <p class="mimgtext">Hunter</p>
-            </li>
-            <li> <span imgs="/ivory1245397979" t="9" l="7" ></span>
-              <p class="mimgtext">Ivory</p>
-            </li>
-            <li> <span imgs="/lavender1245397999" t="9" l="8" ></span>
-              <p class="mimgtext">Lavender</p>
-            </li>
-            <li> <span imgs="/lightskyblue1245398019" t="10" l="0" ></span>
-              <p class="mimgtext">Light Sky Blue</p>
-            </li>
-            <li> <span imgs="/lightslategray1245398038" t="10" l="1" ></span>
-              <p class="mimgtext">Light Slate Gray</p>
-            </li>
-            <li> <span imgs="/lilac1245398071" t="10" l="2" ></span>
-              <p class="mimgtext">Lilac</p>
-            </li>
-            <li> <span imgs="/orange1245398088" t="10" l="3" ></span>
-              <p class="mimgtext">Orange</p>
-            </li>
-            <li> <span imgs="/pink1245398117" t="10" l="4" ></span>
-              <p class="mimgtext">Pink</p>
-            </li>
-            <li> <span imgs="/red1245398132" t="10" l="5" ></span>
-              <p class="mimgtext">Red</p>
-            </li>
-            <li> <span imgs="/Roya Blue1241782041" t="11" l="5" ></span>
-              <p class="mimgtext">Roya Blue</p>
-            </li>
-            <li> <span imgs="/Sage1245398153" t="10" l="6" ></span>
-              <p class="mimgtext">Sage</p>
-            </li>
-            <li> <span imgs="/silver1245398174" t="10" l="7" ></span>
-              <p class="mimgtext">Silver</p>
-            </li>
-            <li> <span imgs="/white1245398199" t="10" l="8" ></span>
-              <p class="mimgtext">White</p>
-            </li>
-        </ul>
-        <div class="clear"></div>
-    </div>
-    
-    <div class="section"><a id="Matte" name="Matte">Matte Satin</a><a href="#" class="top">^Top</a></div>
-    <div class="colorbox">
-    	<div class="bigimg">
-        	<img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241087531.jpg" alt="Matte Satin" />
-            <p>
-            	Viewing:<input type="text" class="samplename" disabled="disabled">
-            </p>
-        </div>
-        <ul class="mimg">
-        	<li><span imgs="/black1241087531" t="12" l="0" ></span>
-        <p class="mimgtext">Black</p>
-        </li>
-        <li> <span imgs="/blue1241087688" t="12" l="1" ></span>
-          <p class="mimgtext">Blue</p>
-        </li>
-        <li> <span imgs="/Brown1241776922" t="12" l="2" ></span>
-          <p class="mimgtext">Brown</p>
-        </li>
-        <li> <span imgs="/Burgundy12417769401245402419" t="12" l="3" ></span>
-          <p class="mimgtext">Burgundy</p>
-        </li>
-        <li> <span imgs="/Champagne12417769591245402482" t="12" l="4" ></span>
-          <p class="mimgtext">Champagne</p>
-        </li>
-        <li> <span imgs="/Chocolate1241776976" t="12" l="5" ></span>
-          <p class="mimgtext">Chocolate</p>
-        </li>
-        <li> <span imgs="/Dark Navy1241776996" t="12" l="6" ></span>
-          <p class="mimgtext">Dark Navy</p>
-        </li>
-        <li> <span imgs="/Daffodil12417779561245402559" t="14" l="3" ></span>
-          <p class="mimgtext">Daffodil</p>
-        </li>
-        <li> <span imgs="/Dark Green1241777987" t="14" l="4" ></span>
-          <p class="mimgtext">Dark Green</p>
-        </li>
-        <li> <span imgs="/Fuchsia1241087782" t="12" l="7" ></span>
-          <p class="mimgtext">Fuchsia</p>
-        </li>
-        <li> <span imgs="/gold12410877941245402622" t="12" l="8" ></span>
-          <p class="mimgtext">Gold</p>
-        </li>
-        <li> <span imgs="/grape12410878041245402669" t="13" l="0" ></span>
-          <p class="mimgtext">Grape</p>
-        </li>
-        <li> <span imgs="/Green1241778019" t="14" l="5" ></span>
-          <p class="mimgtext">Green</p>
-        </li>
-        <li> <span imgs="/Hunter12417770121245402711" t="13" l="1" ></span>
-          <p class="mimgtext">Hunter</p>
-        </li>
-        <li> <span imgs="/Ivory1241777029" t="13" l="2" ></span>
-        <p class="mimgtext">Ivory</p>
-        </li>
-        <li> <span imgs="/Lavender12417770461245402763" t="13" l="3" ></span>
-          <p class="mimgtext">Lavender</p>
-        </li>
-        <li> <span imgs="/Light Sky Blue12417770681245402814" t="13" l="4" ></span>
-          <p class="mimgtext">Light Sky Blue</p>
-        </li>
-        <li> <span imgs="/Light Slate Gray1241777092" t="13" l="5" ></span>
-          <p class="mimgtext">Light Slate Gray</p>
-        </li>
-        <li> <span imgs="/lilac1241087889" t="13" l="6" ></span>
-          <p class="mimgtext">Lilac</p>
-        </li>
-        <li> <span imgs="/Orange21242037231" t="13" l="7" ></span>
-          <p class="mimgtext">Orange</p>
-        </li>
-        <li> <span imgs="/Pink12417780491245402904" t="14" l="6" ></span>
-          <p class="mimgtext">Pink</p>
-        </li>
-        <li> <span imgs="/Red12417780741245402954" t="14" l="7" ></span>
-          <p class="mimgtext">Red</p>
-        </li>
-        <li> <span imgs="/Royalblue1241777170" t="13" l="8" ></span>
-          <p class="mimgtext">Royal Blue</p>
-        </li>
-        <li> <span imgs="/sage1241087927" t="14" l="0" ></span>
-          <p class="mimgtext">Sage</p>
-        </li>
-        <li> <span imgs="/Silver12417771861245403004" t="14" l="1" ></span>
-          <p class="mimgtext">Silver</p>
-        </li>
-        <li> <span imgs="/White1241777217" t="14" l="2" ></span>
-          <p class="mimgtext">White</p>
-        </li>
-
-        </ul>
-        <div class="clear"></div>
-    </div>
-    
-    <div class="section"><a id="Elastic" name="Elastic">Elastic Woven Satin </a><a href="#" class="top">^Top</a></div>
-    <div class="colorbox">
-    	<div class="bigimg">
-        	<img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/White1241776552.jpg" alt="Elastic Woven Satin" />
-            <p>
-            	Viewing:<input type="text" class="samplename" disabled="disabled">
-            </p>
-        </div>
-        <ul class="mimg">
-        	<li> <span imgs="/black1241098727" t="15" l="0" ></span>
-            <p class="mimgtext">Black</p>
-            </li>
-            <li> <span imgs="/Blue1241773333" t="15" l="1" ></span>
-              <p class="mimgtext">Blue</p>
-            </li>
-            <li> <span imgs="/Brown1241773386" t="15" l="2" ></span>
-              <p class="mimgtext">Brown</p>
-            </li>
-            <li> <span imgs="/Burgundy12417735661245403153" t="15" l="3" ></span>
-              <p class="mimgtext">Burgundy</p>
-            </li>
-            <li> <span imgs="/Champagne12417736201245403199" t="15" l="4" ></span>
-              <p class="mimgtext">Champagne</p>
-            </li>
-            <li> <span imgs="/chocolate1241098797" t="15" l="5" ></span>
-              <p class="mimgtext">Chocolate</p>
-            </li>
-            <li> <span imgs="/Daffodil12417736451245403261" t="15" l="6" ></span>
-              <p class="mimgtext">Daffodil</p>
-            </li>
-            <li> <span imgs="/darknavy1241098874" t="15" l="8" ></span>
-              <p class="mimgtext">Dark Navy</p>
-            </li>
-            <li> <span imgs="/fuchsia1241098897" t="16" l="0" ></span>
-              <p class="mimgtext">Fuchsia</p>
-            </li>
-            <li> <span imgs="/Gold1241776671" t="17" l="5" ></span>
-              <p class="mimgtext">Gold</p>
-            </li>
-            <li> <span imgs="/grape12410989151245403364" t="16" l="1" ></span>
-              <p class="mimgtext">Grape</p>
-            </li>
-            <li> <span imgs="/Green1241773725" t="16" l="2" ></span>
-              <p class="mimgtext">Green</p>
-            </li>
-            <li> <span imgs="/Hunter1241773829" t="15" l="7" ></span>
-              <p class="mimgtext">Hunter</p>
-            </li>
-            <li> <span imgs="/Iory1241773853" t="16" l="3" ></span>
-              <p class="mimgtext">Ivory</p>
-            </li>
-            <li> <span imgs="/Lavender12417767421245403427" t="17" l="6" ></span>
-            <p class="mimgtext">Lavender</p>
-            </li>
-            <li> <span imgs="/Lilac12417763831245403541" t="16" l="4" ></span>
-              <p class="mimgtext">Lilac</p>
-            </li>
-            <li> <span imgs="/Lightskyblue1241776357" t="16" l="5" ></span>
-              <p class="mimgtext">Light Sky Blue</p>
-            </li>
-            <li> <span imgs="/lightslategray12410990161245403478" t="16" l="6" ></span>
-              <p class="mimgtext">Light Slate Gray</p>
-            </li>
-            <li> <span imgs="/Orange112420371581245403669" t="16" l="7" ></span>
-              <p class="mimgtext">Orange</p>
-            </li>
-            <li> <span imgs="/pink12410990691245403774" t="16" l="8" ></span>
-              <p class="mimgtext">Pink</p>
-            </li>
-            <li> <span imgs="/Red12417764251245403850" t="17" l="0" ></span>
-              <p class="mimgtext">Red</p>
-            </li>
-            <li> <span imgs="/royal blue1245403983" t="17" l="1" ></span>
-            <p class="mimgtext">Royal Blue</p>
-            </li>
-            <li> <span imgs="/Sage1241776474" t="17" l="2" ></span>
-              <p class="mimgtext">Sage</p>
-            </li>
-            <li> <span imgs="/Silver12417764921245404167" t="17" l="3" ></span>
-              <p class="mimgtext">Silver</p>
-            </li>
-            <li> <span imgs="/White1241776552" t="17" l="4" ></span>
-              <p class="mimgtext">White</p>
-            </li>
-        </ul>
-        <div class="clear"></div>
-    </div>
-    
-    <div class="section"><a id="Silk" name="Silk">Silk Like Satin</a><a href="#" class="top">^Top</a></div>
-    <div class="colorbox">
-    	<div class="bigimg">
-        	<img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241780987.jpg" alt="Silk Like Satin" />
-            <p>
-            	Viewing:<input type="text" class="samplename" disabled="disabled">
-            </p>
-        </div>
-        <ul class="mimg">
-        	<li> <span imgs="/black1241780987" t="18" l="0" ></span>
-              <p class="mimgtext">Black</p>
-            </li>
-            <li> <span imgs="/blue1241781019" t="18" l="1" ></span>
-              <p class="mimgtext">Blue</p>
-            </li>
-            <li> <span imgs="/brown1241781037" t="18" l="2" ></span>
-              <p class="mimgtext">Brown</p>
-            </li>
-            <li> <span imgs="/burgundy12417810581245404229" t="18" l="3" ></span>
-              <p class="mimgtext">Burgundy</p>
-            </li>
-            <li> <span imgs="/champagne1241781075" t="18" l="4" ></span>
-              <p class="mimgtext">Champagne</p>
-            </li>
-            <li> <span imgs="/chocolate1241781095" t="18" l="5" ></span>
-              <p class="mimgtext">Chocolate</p>
-            </li>
-            <li> <span imgs="/darknavy1241781110" t="18" l="6" ></span>
-              <p class="mimgtext">Dark Navy</p>
-            </li>
-            <li> <span imgs="/daffodil1241781458" t="20" l="5" ></span>
-              <p class="mimgtext">Daffodil</p>
-            </li>
-            <li> <span imgs="/darkgreen1241781491" t="20" l="6" ></span>
-              <p class="mimgtext">Dark Green</p>
-            </li>
-            <li> <span imgs="/Fuchsia1241781125" t="18" l="7" ></span>
-              <p class="mimgtext">Fuchsia</p>
-            </li>
-            <li> <span imgs="/gold1241781142" t="18" l="8" ></span>
-              <p class="mimgtext">Gold</p>
-            </li>
-            <li> <span imgs="/grape12417811561245404275" t="19" l="0" ></span>
-              <p class="mimgtext">Grape</p>
-            </li>
-            <li> <span imgs="/green1241781180" t="19" l="1" ></span>
-              <p class="mimgtext">Green</p>
-            </li>
-            <li> <span imgs="/hunter1241781198" t="19" l="2" ></span>
-              <p class="mimgtext">Hunter</p>
-            </li>
-            <li> <span imgs="/ivory1241781213" t="19" l="3" ></span>
-              <p class="mimgtext">Ivory</p>
-            </li>
-            <li> <span imgs="/lavender12417812271245404326" t="19" l="4" ></span>
-              <p class="mimgtext">Lavender</p>
-            </li>
-            <li> <span imgs="/lightskyblue1241781244" t="19" l="5" ></span>
-              <p class="mimgtext">Light Sky Blue</p>
-            </li>
-            <li> <span imgs="/lilac1241781525" t="20" l="7" ></span>
-              <p class="mimgtext">Lilac</p>
-            </li>
-            <li> <span imgs="/orange12417812611245404366" t="19" l="7" ></span>
-              <p class="mimgtext">Orange</p>
-            </li>
-            <li> <span imgs="/pink1241781277" t="19" l="8" ></span>
-              <p class="mimgtext">Pink</p>
-            </li>
-            <li> <span imgs="/red12417812951245404428" t="20" l="0" ></span>
-              <p class="mimgtext">Red</p>
-            </li>
-            <li> <span imgs="/royal blue1241781309" t="20" l="1" ></span>
-              <p class="mimgtext">Royal Blue</p>
-            </li>
-            <li> <span imgs="/sage12417813291245404515" t="20" l="2" ></span>
-              <p class="mimgtext">Sage</p>
-            </li>
-            <li> <span imgs="/silver1245404995" t="20" l="3" ></span>
-              <p class="mimgtext">Silver</p>
-            </li>
-            <li> <span imgs="/white1241781358" t="20" l="4" ></span>
-              <p class="mimgtext">White</p>
-            </li>
-
-        </ul>
-        <div class="clear"></div>
-    </div>
-    
-    
-    
-    </div><!--content-->
-  </div><!--maincon-->
-</div></div>                </div>
+<div class="section"><a id="satin" name="satin">Satin</a><a class="top" href="#">^Top</a></div>
+<div class="colorbox">
+<div class="bigimg"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241087531.jpg" alt="Satin" />
+<p>Viewing:<input class="samplename" disabled="disabled" type="text" /></p>
+</div>
+<ul class="mimg">
+<li><span title="Black">&nbsp;</span>
+<p class="mimgtext">Black</p>
+</li>
+<li><span title="Blue">&nbsp;</span>
+<p class="mimgtext">Blue</p>
+</li>
+<li><span title="Brown">&nbsp;</span>
+<p class="mimgtext">Brown</p>
+</li>
+<li><span>&nbsp;</span>
+<p class="mimgtext">Burgundy</p>
+</li>
+<li><span>&nbsp;</span>
+<p class="mimgtext">Champagne</p>
+</li>
+<li><span>&nbsp;</span>
+<p class="mimgtext">Chocolate</p>
+</li>
+<li><span title="Dark Navy">&nbsp;</span>
+<p class="mimgtext">Dark Navy</p>
+</li>
+<li>
+<p class="mimgtext">Daffodil</p>
+</li>
+<li>
+<p class="mimgtext">Dark Green</p>
+</li>
+<li>
+<p class="mimgtext">Fuchsia</p>
+</li>
+<li>
+<p class="mimgtext">Gold</p>
+</li>
+<li>
+<p class="mimgtext">Grape</p>
+</li>
+<li>
+<p class="mimgtext">Green</p>
+</li>
+<li>
+<p class="mimgtext">Hunter</p>
+</li>
+<li>
+<p class="mimgtext">Ivory</p>
+</li>
+<li>
+<p class="mimgtext">Lavender</p>
+</li>
+<li>
+<p class="mimgtext">Light Sky Blue</p>
+</li>
+<li>
+<p class="mimgtext">Light Slate Gray</p>
+</li>
+<li>
+<p class="mimgtext">Lilac</p>
+</li>
+<li>
+<p class="mimgtext">Orange</p>
+</li>
+<li>
+<p class="mimgtext">Pink</p>
+</li>
+<li>
+<p class="mimgtext">Royal Blue</p>
+</li>
+<li>
+<p class="mimgtext">Sage</p>
+</li>
+<li>
+<p class="mimgtext">Silver</p>
+</li>
+<li>
+<p class="mimgtext">White</p>
+</li>
+<li>
+<p class="mimgtext">Red</p>
+</li>
+</ul>
+</div>
+<div class="section"><a id="Chiffon" name="Chiffon">Chiffon</a><a class="top" href="#">^Top</a></div>
+<div class="colorbox">
+<div class="bigimg"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241780374.jpg" alt="Chiffon" />
+<p>Viewing:<input class="samplename" disabled="disabled" type="text" /></p>
+</div>
+<ul class="mimg">
+<li>
+<p class="mimgtext">Black</p>
+</li>
+<li>
+<p class="mimgtext">Blue</p>
+</li>
+<li>
+<p class="mimgtext">Brown</p>
+</li>
+<li>
+<p class="mimgtext">Burgundy</p>
+</li>
+<li>
+<p class="mimgtext">Champagne</p>
+</li>
+<li>
+<p class="mimgtext">Chocolate</p>
+</li>
+<li>
+<p class="mimgtext">Dark Navy</p>
+</li>
+<li>
+<p class="mimgtext">Daffodil</p>
+</li>
+<li>
+<p class="mimgtext">Dark Green</p>
+</li>
+<li>
+<p class="mimgtext">Fuchsia</p>
+</li>
+<li>
+<p class="mimgtext">Gold</p>
+</li>
+<li>
+<p class="mimgtext">Grape</p>
+</li>
+<li>
+<p class="mimgtext">Green</p>
+</li>
+<li>
+<p class="mimgtext">Hunter</p>
+</li>
+<li>
+<p class="mimgtext">Ivory</p>
+</li>
+<li>
+<p class="mimgtext">Lavender</p>
+</li>
+<li>
+<p class="mimgtext">Light Sky Blue</p>
+</li>
+<li>
+<p class="mimgtext">Light Slate Gray</p>
+</li>
+<li>
+<p class="mimgtext">Lilac</p>
+</li>
+<li>
+<p class="mimgtext">Orange</p>
+</li>
+<li>
+<p class="mimgtext">Pink</p>
+</li>
+<li>
+<p class="mimgtext">Royal Blue</p>
+</li>
+<li>
+<p class="mimgtext">Sage</p>
+</li>
+<li>
+<p class="mimgtext">Red</p>
+</li>
+<li>
+<p class="mimgtext">Silver</p>
+</li>
+<li>
+<p class="mimgtext">White</p>
+</li>
+</ul>
+</div>
+<div class="section"><a id="Taffeta" name="Taffeta">Taffeta</a><a class="top" href="#">^Top</a></div>
+<div class="colorbox">
+<div class="bigimg"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/brown12410982401245395687.jpg" alt="Taffeta" />
+<p>Viewing:<input class="samplename" disabled="disabled" type="text" /></p>
+</div>
+<ul class="mimg">
+<li>
+<p class="mimgtext">Brown</p>
+</li>
+<li>
+<p class="mimgtext">Burgundy</p>
+</li>
+<li>
+<p class="mimgtext">Black</p>
+</li>
+<li>
+<p class="mimgtext">Blue</p>
+</li>
+<li>
+<p class="mimgtext">Champagne</p>
+</li>
+<li>
+<p class="mimgtext">Chocolate</p>
+</li>
+<li>
+<p class="mimgtext">Daffodil</p>
+</li>
+<li>
+<p class="mimgtext">Dark Green</p>
+</li>
+<li>
+<p class="mimgtext">Dark Navy</p>
+</li>
+<li>
+<p class="mimgtext">Fuchsia</p>
+</li>
+<li>
+<p class="mimgtext">Gold</p>
+</li>
+<li>
+<p class="mimgtext">Grape</p>
+</li>
+<li>
+<p class="mimgtext">Green</p>
+</li>
+<li>
+<p class="mimgtext">Hunter</p>
+</li>
+<li>
+<p class="mimgtext">Ivory</p>
+</li>
+<li>
+<p class="mimgtext">Lavender</p>
+</li>
+<li>
+<p class="mimgtext">Light Sky Blue</p>
+</li>
+<li>
+<p class="mimgtext">Light Slate Gray</p>
+</li>
+<li>
+<p class="mimgtext">Lilac</p>
+</li>
+<li>
+<p class="mimgtext">Orange</p>
+</li>
+<li>
+<p class="mimgtext">Pink</p>
+</li>
+<li>
+<p class="mimgtext">Red</p>
+</li>
+<li>
+<p class="mimgtext">Royal Blue</p>
+</li>
+<li>
+<p class="mimgtext">Sage</p>
+</li>
+<li>
+<p class="mimgtext">Silver</p>
+</li>
+<li>
+<p class="mimgtext">White</p>
+</li>
+</ul>
+</div>
+<div class="section"><a id="Organza" name="Organza">Organza</a><a class="top" href="#">^Top</a></div>
+<div class="colorbox">
+<div class="bigimg"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/brown1245397076.jpg" alt="Organza" />
+<p>Viewing:<input class="samplename" disabled="disabled" type="text" /></p>
+</div>
+<ul class="mimg">
+<li>
+<p class="mimgtext">Brown</p>
+</li>
+<li>
+<p class="mimgtext">Black</p>
+</li>
+<li>
+<p class="mimgtext">Blue</p>
+</li>
+<li>
+<p class="mimgtext">Burgundy</p>
+</li>
+<li>
+<p class="mimgtext">Daffodil</p>
+</li>
+<li>
+<p class="mimgtext">Dark Navy</p>
+</li>
+<li>
+<p class="mimgtext">Dark Green</p>
+</li>
+<li>
+<p class="mimgtext">Fuchsia</p>
+</li>
+<li>
+<p class="mimgtext">Gold</p>
+</li>
+<li>
+<p class="mimgtext">Grape</p>
+</li>
+<li>
+<p class="mimgtext">Green</p>
+</li>
+<li>
+<p class="mimgtext">Hunter</p>
+</li>
+<li>
+<p class="mimgtext">Ivory</p>
+</li>
+<li>
+<p class="mimgtext">Lavender</p>
+</li>
+<li>
+<p class="mimgtext">Light Sky Blue</p>
+</li>
+<li>
+<p class="mimgtext">Light Slate Gray</p>
+</li>
+<li>
+<p class="mimgtext">Lilac</p>
+</li>
+<li>
+<p class="mimgtext">Orange</p>
+</li>
+<li>
+<p class="mimgtext">Pink</p>
+</li>
+<li>
+<p class="mimgtext">Red</p>
+</li>
+<li>
+<p class="mimgtext">Roya Blue</p>
+</li>
+<li>
+<p class="mimgtext">Sage</p>
+</li>
+<li>
+<p class="mimgtext">Silver</p>
+</li>
+<li>
+<p class="mimgtext">White</p>
+</li>
+</ul>
+</div>
+<div class="section"><a id="Matte" name="Matte">Matte Satin</a><a class="top" href="#">^Top</a></div>
+<div class="colorbox">
+<div class="bigimg"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241087531.jpg" alt="Matte Satin" />
+<p>Viewing:<input class="samplename" disabled="disabled" type="text" /></p>
+</div>
+<ul class="mimg">
+<li>
+<p class="mimgtext">Black</p>
+</li>
+<li>
+<p class="mimgtext">Blue</p>
+</li>
+<li>
+<p class="mimgtext">Brown</p>
+</li>
+<li>
+<p class="mimgtext">Burgundy</p>
+</li>
+<li>
+<p class="mimgtext">Champagne</p>
+</li>
+<li>
+<p class="mimgtext">Chocolate</p>
+</li>
+<li>
+<p class="mimgtext">Dark Navy</p>
+</li>
+<li>
+<p class="mimgtext">Daffodil</p>
+</li>
+<li>
+<p class="mimgtext">Dark Green</p>
+</li>
+<li>
+<p class="mimgtext">Fuchsia</p>
+</li>
+<li>
+<p class="mimgtext">Gold</p>
+</li>
+<li>
+<p class="mimgtext">Grape</p>
+</li>
+<li>
+<p class="mimgtext">Green</p>
+</li>
+<li>
+<p class="mimgtext">Hunter</p>
+</li>
+<li>
+<p class="mimgtext">Ivory</p>
+</li>
+<li>
+<p class="mimgtext">Lavender</p>
+</li>
+<li>
+<p class="mimgtext">Light Sky Blue</p>
+</li>
+<li>
+<p class="mimgtext">Light Slate Gray</p>
+</li>
+<li>
+<p class="mimgtext">Lilac</p>
+</li>
+<li>
+<p class="mimgtext">Orange</p>
+</li>
+<li>
+<p class="mimgtext">Pink</p>
+</li>
+<li>
+<p class="mimgtext">Red</p>
+</li>
+<li>
+<p class="mimgtext">Royal Blue</p>
+</li>
+<li>
+<p class="mimgtext">Sage</p>
+</li>
+<li>
+<p class="mimgtext">Silver</p>
+</li>
+<li>
+<p class="mimgtext">White</p>
+</li>
+</ul>
+</div>
+<div class="section"><a id="Elastic" name="Elastic">Elastic Woven Satin </a><a class="top" href="#">^Top</a></div>
+<div class="colorbox">
+<div class="bigimg"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/White1241776552.jpg" alt="Elastic Woven Satin" />
+<p>Viewing:<input class="samplename" disabled="disabled" type="text" /></p>
+</div>
+<ul class="mimg">
+<li>
+<p class="mimgtext">Black</p>
+</li>
+<li>
+<p class="mimgtext">Blue</p>
+</li>
+<li>
+<p class="mimgtext">Brown</p>
+</li>
+<li>
+<p class="mimgtext">Burgundy</p>
+</li>
+<li>
+<p class="mimgtext">Champagne</p>
+</li>
+<li>
+<p class="mimgtext">Chocolate</p>
+</li>
+<li>
+<p class="mimgtext">Daffodil</p>
+</li>
+<li>
+<p class="mimgtext">Dark Navy</p>
+</li>
+<li>
+<p class="mimgtext">Fuchsia</p>
+</li>
+<li>
+<p class="mimgtext">Gold</p>
+</li>
+<li>
+<p class="mimgtext">Grape</p>
+</li>
+<li>
+<p class="mimgtext">Green</p>
+</li>
+<li>
+<p class="mimgtext">Hunter</p>
+</li>
+<li>
+<p class="mimgtext">Ivory</p>
+</li>
+<li>
+<p class="mimgtext">Lavender</p>
+</li>
+<li>
+<p class="mimgtext">Lilac</p>
+</li>
+<li>
+<p class="mimgtext">Light Sky Blue</p>
+</li>
+<li>
+<p class="mimgtext">Light Slate Gray</p>
+</li>
+<li>
+<p class="mimgtext">Orange</p>
+</li>
+<li>
+<p class="mimgtext">Pink</p>
+</li>
+<li>
+<p class="mimgtext">Red</p>
+</li>
+<li>
+<p class="mimgtext">Royal Blue</p>
+</li>
+<li>
+<p class="mimgtext">Sage</p>
+</li>
+<li>
+<p class="mimgtext">Silver</p>
+</li>
+<li>
+<p class="mimgtext">White</p>
+</li>
+</ul>
+</div>
+<div class="section"><a id="Silk" name="Silk">Silk Like Satin</a><a class="top" href="#">^Top</a></div>
+<div class="colorbox">
+<div class="bigimg"><img src="http://www.carinadresses.com/skin/frontend/default/fc/images/help/colorchart/black1241780987.jpg" alt="Silk Like Satin" />
+<p>Viewing:<input class="samplename" disabled="disabled" type="text" /></p>
+</div>
+<ul class="mimg">
+<li>
+<p class="mimgtext">Black</p>
+</li>
+<li>
+<p class="mimgtext">Blue</p>
+</li>
+<li>
+<p class="mimgtext">Brown</p>
+</li>
+<li>
+<p class="mimgtext">Burgundy</p>
+</li>
+<li>
+<p class="mimgtext">Champagne</p>
+</li>
+<li>
+<p class="mimgtext">Chocolate</p>
+</li>
+<li>
+<p class="mimgtext">Dark Navy</p>
+</li>
+<li>
+<p class="mimgtext">Daffodil</p>
+</li>
+<li>
+<p class="mimgtext">Dark Green</p>
+</li>
+<li>
+<p class="mimgtext">Fuchsia</p>
+</li>
+<li>
+<p class="mimgtext">Gold</p>
+</li>
+<li>
+<p class="mimgtext">Grape</p>
+</li>
+<li>
+<p class="mimgtext">Green</p>
+</li>
+<li>
+<p class="mimgtext">Hunter</p>
+</li>
+<li>
+<p class="mimgtext">Ivory</p>
+</li>
+<li>
+<p class="mimgtext">Lavender</p>
+</li>
+<li>
+<p class="mimgtext">Light Sky Blue</p>
+</li>
+<li>
+<p class="mimgtext">Lilac</p>
+</li>
+<li>
+<p class="mimgtext">Orange</p>
+</li>
+<li>
+<p class="mimgtext">Pink</p>
+</li>
+<li>
+<p class="mimgtext">Red</p>
+</li>
+<li>
+<p class="mimgtext">Royal Blue</p>
+</li>
+<li>
+<p class="mimgtext">Sage</p>
+</li>
+<li>
+<p class="mimgtext">Silver</p>
+</li>
+<li>
+<p class="mimgtext">White</p>
+</li>
+</ul>
+</div>
+</div>
+<!--content--></div>
+<!--maincon--></div></div>                </div>
             </div>
         </div>
         <div class="footer-container">
@@ -1169,4 +1088,4 @@ sh=setInterval(_fresh,1000);
         
 
 </body>
-</html></div>
+</html>
